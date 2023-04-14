@@ -29,7 +29,7 @@ This is a simple implementation of the classic game of Tic-Tac-Toe using Java AW
 ## How to Run
 1. Install Java Development Kit (JDK) on your computer if you haven't already. You can download the JDK from the official Oracle website: https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
 
-2. Clone or download the project source code from the GitHub repository to your local machine. You can find the repository at: https://github.com/YourRepositoryName
+2. Clone or download the project source code from the GitHub repository to your local machine. You can find the repository at: https://github.com/RajalakshmiR24/Tic-Tac-Toe-Java-Applet.git
 
 3. Open the project in your preferred Integrated Development Environment (IDE), such as Eclipse, IntelliJ IDEA, or NetBeans.
 
